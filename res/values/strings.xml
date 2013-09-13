@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoupleFace</string>
+    <string name="change_user">Change User</string>    
+    <string name="exit">Exit</string>    
+    <string name="about">About</string>    
+    <string name="cof1_1">The similarity between you is </string>    
+    <string name="cof1_2">The similarity between you is </string>    
+    <string name="cof1_3">The similarity between you is </string>    
+    <string name="cof2_1">%, what are you waiting for?</string>  
+    <string name="cof2_2">%, you can consider about it!</string>  
+    <string name="cof2_3">%, maybe you can look for more guys</string>    
+    <string name="none">Sorry, there are no plople looks like you</string>
+    <string name="question">You want to find a</string>   
+    <string name="male">male</string>   
+    <string name="female">female</string>   
+    <string name="both">both</string>         
+    <string name="search">Search</string>             
+    <string name="post">Share on Facebook</string>             
+    <string name="postmsg">CoupleFace says:</string>     
+    <string name="postmsg2">Let\'s find who has coupleface with you!</string>   
+    <string name="postdone">Done</string>      
+</resources>

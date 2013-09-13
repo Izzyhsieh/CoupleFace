@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoupleFace</string>
+    <string name="change_user">換使用者</string>    
+    <string name="exit">離開</string>    
+    <string name="about">關於</string>    
+    <string name="cof1_1">你們的相似度高達  </string>    
+    <string name="cof1_2">你們的相似度有  </string>    
+    <string name="cof1_3">你們的相似度只有  </string>    
+    <string name="cof2_1">%, 你還在等甚麼?</string>  
+    <string name="cof2_2">%, 你們可以考慮唷!</string>  
+    <string name="cof2_3">%, 再多找幾個吧</string> 
+    <string name="none">看來跟你有夫妻臉的朋友還沒出現</string>    
+    <string name="question">你想從好友中尋找</string>   
+    <string name="male">男</string>   
+    <string name="female">女</string>   
+    <string name="both">都可</string>     
+    <string name="search">搜尋</string>   
+    <string name="post">分享至Facebook</string>     
+    <string name="postmsg">CoupleFace 說:</string>     
+    <string name="postmsg2">大家一起來找跟自己最像的朋友吧</string>     
+    <string name="postdone">已發佈</string>      
+</resources>
